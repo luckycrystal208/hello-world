@@ -1,2 +1,3 @@
 # hello-world
-This is a demo repository for CPSC5051 hw
+
+My name is Grace, I am a CS student at Seattle U.
